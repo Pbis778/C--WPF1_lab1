@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pbist\\OneDrive\\Pulpit\\studia\\JWP\\C#\\Lab1\\S3WPF1\\S3WPF1.csproj",
+      "projectUniqueName": "C:\\Users\\pbist\\OneDrive\\Dokumenty\\GitHub\\C--WPF1_lab1\\S3WPF1.csproj",
       "projectName": "S3WPF1",
-      "projectPath": "C:\\Users\\pbist\\OneDrive\\Pulpit\\studia\\JWP\\C#\\Lab1\\S3WPF1\\S3WPF1.csproj",
+      "projectPath": "C:\\Users\\pbist\\OneDrive\\Dokumenty\\GitHub\\C--WPF1_lab1\\S3WPF1.csproj",
       "packagesPath": "C:\\Users\\pbist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pbist\\OneDrive\\Pulpit\\studia\\JWP\\C#\\Lab1\\S3WPF1\\obj\\",
+      "outputPath": "C:\\Users\\pbist\\OneDrive\\Dokumenty\\GitHub\\C--WPF1_lab1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pbist\\AppData\\Roaming\\NuGet\\NuGet.Config",
